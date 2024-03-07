@@ -28,5 +28,6 @@ View summary of all accounts
 Java Development Kit (JDK) installed on your system
 Java IDE or compiler for compiling and running the program
 
-Author:
+# Author:
+
 Sananda S
