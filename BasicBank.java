@@ -17,7 +17,7 @@ public class Main
         // Start the main program loop
         while (condition) 
         {
-        	// Display the banking menu options
+            // Display the banking menu options
             System.out.println("Banking Menu: ");
             System.out.println("Select any one option from below. ");
             System.out.println("1) Add Customer");
@@ -62,7 +62,7 @@ public class Main
             } 
             else if (option == 2) 
             {
-            	  // Change customer name
+            	// Change customer name
                 // Prompt user for account number and new name
                 // Display confirmation message
 
@@ -114,7 +114,7 @@ public class Main
             } 
             else if (option == 4) 
             {
-            	  // Update account balance
+            	// Update account balance
                 // Prompt user for account number and deposit amount
                 // Display updated balance
             	
